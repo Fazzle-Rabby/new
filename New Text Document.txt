@@ -1,0 +1,13 @@
+khaldhrogo1 ttps://index.docker.io/v1/
+
+frpar@DESKTOP-RPBB2VM MINGW64 ~/Desktop/parvez-repo
+$ git config --global user.name "Fazzle-Rabby"
+
+frpar@DESKTOP-RPBB2VM MINGW64 ~/Desktop/parvez-repo
+$ git config --global user.email "frparvez9@gmail.com"
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+

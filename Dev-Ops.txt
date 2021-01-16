@@ -1,0 +1,32 @@
+1. Jenkins, From Zero To Hero: Become a DevOps Jenkins Master
+
+  
+
+2. DevOps Project: CI/CD with Jenkins Ansible Docker Kubernetes
+
+   
+
+*3. Docker for the Absolute Beginner - Hands On - DevOps
+
+   
+
+*4. Ansible for the Absolute Beginner - Hands-On - DevOps
+
+   
+
+*5. Kubernetes for the Absolute Beginners - Hands-on
+
+  
+
+6. Puppet for the Absolute Beginners - Hands-on - DevOps
+
+   
+
+*7. Git and GitHub for DevOps Engineers
+
+   
+
+8. Complete DEVOPS - Jenkins, Ansible, Kubernetes, Dockers, Nagios
+
+   
+
